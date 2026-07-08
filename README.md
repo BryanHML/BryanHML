@@ -48,9 +48,3 @@ Master of Data Science graduate from Monash University who turns messy, real-wor
 - 🥈 1st Runner-Up — Inter-University Datathon 2025 (Allianz × IMC Trading)
 - 🏅 Industry Experience Team Project Student Choice Award Winner 2025
 - ✨ Creative Facilitator Award — PASS Tutoring
-
----
-
-📊 **GitHub Stats**
-
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanHML&show_icons=true&theme=default)
