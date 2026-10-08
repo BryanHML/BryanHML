@@ -4,7 +4,7 @@
 
 Master of Data Science graduate from Monash University who turns messy, real-world data into clean pipelines, models, and insights. Currently a Junior Data Analyst Intern at Speedbrick, building intelligent construction-material matching solutions in Python.
 
-🌐 Portfolio: https://bryanhml.github.io/ · 💼 [LinkedIn](https://www.linkedin.com/in/bryanhoml) · 📫 bryanho.tech@gmail.com
+🌐  💼 [LinkedIn](https://www.linkedin.com/in/bryanhoml) · 📫 bryanho.tech@gmail.com
 
 ---
 
